@@ -1,0 +1,16 @@
+{
+  "name": "synchub-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^8.10.0",
+    "y-websocket": "^1.3.16",
+    "yjs": "^13.5.12"
+  }
+}
